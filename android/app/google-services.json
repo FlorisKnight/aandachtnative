@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884742164321",
+    "firebase_url": "https://aandacht-c0a98.firebaseio.com",
+    "project_id": "aandacht-c0a98",
+    "storage_bucket": "aandacht-c0a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884742164321:android:5bba91df8d41c139133f20",
+        "android_client_info": {
+          "package_name": "nl.supercoolefloris.aandacht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884742164321-9nsrvnbebvdqgu514diliktipkrshf2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD159O-a67IXjcbed1yZYpdE7VCrXOjG3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884742164321-9nsrvnbebvdqgu514diliktipkrshf2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
